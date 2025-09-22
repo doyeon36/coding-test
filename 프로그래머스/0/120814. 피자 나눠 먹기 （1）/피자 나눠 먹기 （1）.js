@@ -1,0 +1,10 @@
+function solution(n) {
+  if(n%7==0){
+      return n/7;
+  }
+    else{
+        return parseInt(n/7)+1;
+}
+    let answer = 0;
+    return answer;
+}
